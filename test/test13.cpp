@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
  
 int main()
@@ -6,10 +6,10 @@ int main()
     char string[10];
     while(string!=0)
     {
-    cout << "ÊäÈë: ";
+    cout << "è¾“å…¥: ";
     cin >> string;
  
-    cout << "ÊäÈëÎª: " << string; 
+    cout << "è¾“å…¥ä¸º: " << string; 
 	}
 	   
     return 0;
