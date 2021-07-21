@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
  
 int main()
@@ -9,7 +9,7 @@ int main()
     cout << "输入: ";
     cin >> string;
  
-    cout << "输入为: " << string; 
+    cout << "输入为: " << string << endl; 
 	}
 	   
     return 0;
